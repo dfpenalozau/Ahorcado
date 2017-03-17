@@ -2,16 +2,16 @@ package ahorcado;
 
 public class Juego {
     
-    String [] Letra=new String[6];
-    int Oportunidades=6;
+    String [] Palabra=new String[5];
+    int Vidas=5;
     
 public void LlenarPalabras(){
     
-    Letra[0]="C";
-    Letra[1]="I";
-    Letra[2]="E";
-    Letra[3]="L";
-    Letra[4]="O";
+    Palabra[0]="C";
+    Palabra[1]="I";
+    Palabra[2]="E";
+    Palabra[3]="L";
+    Palabra[4]="O";
 
 }
     
