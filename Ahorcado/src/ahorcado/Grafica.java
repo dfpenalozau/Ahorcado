@@ -65,6 +65,7 @@ public class Grafica extends javax.swing.JFrame {
 
         Vidas.setFont(new java.awt.Font("Tahoma", 0, 90)); // NOI18N
         Vidas.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        Vidas.setText("5");
 
         EtiquetaVidas.setFont(new java.awt.Font("Tahoma", 0, 48)); // NOI18N
         EtiquetaVidas.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
